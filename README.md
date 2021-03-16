@@ -1,5 +1,6 @@
 ## Aplicação Docker
 
+### Execução
 
 1. Construa a imagem do DockerFile
 
@@ -11,3 +12,7 @@ docker-compose up -d
 ```
 
 4. Não está sendo utilizado Vue.js
+
+### *troubleshooting*
+
+1. O problema do MySQL foi resolvido setando a versão 5.7.
