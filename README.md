@@ -10,8 +10,9 @@
 ```
 docker-compose up -d
 ```
+4. Está com MySQL, Docker e Django.
 
-4. Não está sendo utilizado Vue.js
+5. Não está sendo utilizado Vue.js
 
 ### *troubleshooting*
 
